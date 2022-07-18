@@ -1,0 +1,68 @@
+body{
+    text-align:center;
+    margin-right:420px;
+    margin-left:420px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color:white;
+    
+}
+
+header, footer{
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    text-decoration-line:underline;
+}
+
+ul{
+    margin-left:-20px;
+    margin-bottom:0px;
+}
+
+
+
+li p{
+    text-indent: -3px;
+    margin-top:5px;
+}
+
+p{
+    font-size:30px;
+}
+
+header, main, footer{
+    background-color:rgb(24, 14, 71);
+}
+
+.about-me{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+h2{
+    margin-top: 0px;
+    font-size: 40px;
+    margin-left:0px;
+    text-decoration-line:underline;
+}
+
+li{
+    list-style:none;
+    font-size: 35px;
+}
+
+.contact{
+    margin-top:0px;
+    margin-bottom:10px;
+}
+
+.remove-margin{
+    margin-bottom:0px;
+}
+
+.iglogo{
+    background: #ff0;
+}
+
